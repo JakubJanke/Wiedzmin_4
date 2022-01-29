@@ -1,0 +1,16 @@
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.csproj.AssemblyReference.cache
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.AssemblyInfoInputs.cache
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.AssemblyInfo.cs
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.csproj.CoreCompileInputs.cache
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.exe
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.deps.json
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.runtimeconfig.json
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.runtimeconfig.dev.json
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.dll
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\ref\Gierka.dll
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\bin\Debug\net5.0\Gierka.pdb
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.dll
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\ref\Gierka.dll
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.pdb
+C:\Users\janek\OneDrive\Pulpit\UMG\PP\Gierka\obj\Debug\net5.0\Gierka.genruntimeconfig.cache
